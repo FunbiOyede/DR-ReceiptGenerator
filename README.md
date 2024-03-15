@@ -11,7 +11,7 @@ Ismi is a fairytale organization in the alps of moria that keeps tracks of holid
 Ismi current application which is a .NET background service(This app just logs to file every 5 minute lol) is usually deployed manually on a VM and the VM is hosted on a physical server. But! Ismi phyical server are always raided by orcs from the land of moria which leads to data loss, customer loss and security breach.
 
 
-# objective
+# Objective
 
 The objective is to migrate Ismi to AWS and also come with a DR plan that can reduce recovery costs, ehnaced security and customer retentions.
 
