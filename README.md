@@ -17,6 +17,7 @@ The Goal is to migrate Ismi to AWS and also come with a DR plan that can reduce 
 
 
 # Migration Activity
+Ismi wants to utilize the use of docker containers to increase the portability, efficiency, scalability and speed to deployments of Ismi beta.
 
 ## Objective
 1. Mirattion is be at a very low cost and very simple architure as Ismi is a small business
