@@ -17,10 +17,14 @@ The Goal is to migrate Ismi to AWS and also come with a DR plan that can reduce 
 
 
 # Migration Activity
-Ismi wants to utilize the use of docker containers to increase the portability, efficiency, scalability and speed to deployments of Ismi beta.
+Ismi wants to utilize the following for the new migration processs;
+
+1. use of docker containers to increase the portability, efficiency, scalability and speed to deployments of Ismi beta.
+2. Automate the creation of new infrastructure with Terraform and Github Actions
+3. AWS EC2 to host their docker container 
 
 ## Objective
-1. Mirattion is be at a very low cost and very simple architure as Ismi is a small business
+1. Migration must be at a very low cost and very simple architecture as Ismi is a small business
 2. 
 
 # DR activity
