@@ -1,4 +1,4 @@
-# DR Holiday Tracker.
+# DR Reciept Generator.
 
 
 A DR plan for a small business that generates sales receipts for different clients.
