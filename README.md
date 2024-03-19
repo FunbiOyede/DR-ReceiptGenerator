@@ -1,7 +1,7 @@
 # DR Holiday Tracker.
 
 
-A DR plan for a small business that keeps track of holidays in different company.
+A DR plan for a small business that generates sales receipts for different clients.
 
 
 # Background
